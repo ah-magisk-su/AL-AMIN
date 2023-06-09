@@ -476,7 +476,7 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8?token=soheliptv0182
 
 
 
-#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="http://globalflix.net/uploads/tv_image/sm/matribhumi-tv.png", Matrevumi TV
+#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Mathrubhumi_News.png/revision/latest/scale-to-width-down/180?cb=20181211094002", Matrevumi TV
 
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
 
@@ -777,10 +777,9 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/169
 
 #EXTINF:-1 group-title="Documentary~🌏" tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg",Discovery (Bangla)
 
-#http://12.1.1.1:8082/Discovery-Tv/tracks-v1a1/mono.m3u8?token=70a89faca5a6562bdff2f6ea1d366ddf38b57d6f-b7cf7173b9cc91af48e43a507630b5fe-1685875445-1685864645
+http://12.1.1.1:8082/Discovery-Tv/tracks-v1a1/mono.m3u8?token=70a89faca5a6562bdff2f6ea1d366ddf38b57d6f-b7cf7173b9cc91af48e43a507630b5fe-1685875445-1685864645
 
-https://mhdtvworld.me/delta/discovery/api/Discovery_Bangla.m3u8
-
+#http://mhdtvworld.me/delta/discovery/api/Discovery_Bangla.m3u8
 
 
 
@@ -1227,33 +1226,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 
 
 
+
+
 #EXTINF:-1 tvg-id="4" tvg-logo="http://D.png" group-title="Movie Channel 🎥", Color Cineplex HD
 
 http://stream.medialink24.net:9191/Colors-cineplex/index.m3u8?token=2153cf83ab29ffb029a8f618e886ea5ea63e96b2-4566621b43ecce2ad21ef1f0efe14148-1686181183-1686170383
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="4" tvg-logo="http://D.png" group-title="Movie Channel 🎥", Color Cineplex Superhit
-
-https://mhdtv.co.in/jio/app/live/1450/Rishtey_Cineplex/479b4cbf0975ca3737671d3df89a99180af2e4a62a9b0a342634a66bc5082e5d2777dc767445acd74fa883de63047b5a79b26aa630f480b9f01948b74690936a84d102b270bb21a721db58a6e5f63979_playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="4" tvg-logo="http://D.png" group-title="Movie Channel 🎥", Color Cineplex Bollywood
-
-https://mhdtv.co.in/jio/app/live/1763/Colors_Cineplex_Bollywood/479b4cbf0975ca3737671d3df89a99180af2e4a62a9b0a342634a66bc5082e5df7a7d2e7f6b5896cd33327bb8bc8c18657651169d0d9f2ef218da0d289e139e29fd1061073e26f7610b48f937a14ed7d10f3e193463cab8998710232f2fe3bfb_playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="4" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_imaimages/SoHD.png" group-title="Movie Channel 🎥", Zing
-
-https://mhdtv.co.in/jio/app/live/585/Zing/479b4cbf0975ca3737671d3df89a99180af2e4a62a9b0a342634a66bc5082e5dd78601ffbe741bf4c6b789f31a2c17fe7d8489b4797b6e89120d470a04d2eb046caa5af6f641e35825349a6648ef36e90933480137fdca9727006d13686ef1fe2008c4a780bda5249f925fa2c25224e9_playlist.m3u8
 
 
 
@@ -1320,6 +1297,14 @@ https://cdn2.aliflailabd.com/star-movies/index.m3u8?token=14601bce8fb978a0c8ac58
 #EXTINF:-1 tvg-id="4" tvg-logo="https://shortuZ6" group-title="Movie Channel 🎥", AXN
 
 http://stream.medialink24.net:9191/and-picture/index.m3u8?token=a6b4c469efaebe191506f9cd95d6a9572d6c2c9a-b95a1f18b0142848218ae551610319b6-1686180503-1686169703
+
+
+
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://shortuZ6" group-title="Movie Channel 🎥", & Pictures HD
+
+http://93.114.194.26:25461/live/mahesh12/mahesh12/98856.m3u8?token=ShJcU0BbQQNHWwcIUwFWC1pTA1FRAFFXBwdXB1EBUQECUVVTVVVQDAMbGBpEF0dcWF1vWQIXXlgJWlcBSUZGQVRCa1tXEVkbVw0CDwNUFxUbRFldAxdeUR1AEl4BRgkQAAAMAAIRTxsAQUBdRQ1UVWZUVUYPVgFDCwwXWwlIEV1fb1BXXlINXUcDFggVTxdQSkASCghACA0dQABeERZSRlQSDhAAAVcIRxUWW1gWW01LSRIKRHcgQx1AB08RAV1BWF9aEAkRDgoQARYUFQpGZktVQ0QUUAUMVBBADUdUER4TXVVKbFAMVwtcV0xeDFtKGwoSAUQZRgxeDAtDChZsQlhUFggRBlcKVxtJ
+
 
 
 
