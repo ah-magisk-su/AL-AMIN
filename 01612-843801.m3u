@@ -8,12 +8,9 @@
 
 
 
-#EXTINF:-1 group-title="AL-AMIN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFa7t0SUJEnaNsIh4xPYa_OsrxyFgTFYEL4NQH1QYS6gLBxlJ-q2BiNQxFr6oVvtc-YEI&s", Lionel Messi Destiny
+#EXTINF:-1 group-title="AL-AMIN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFa7t0SUJEnaNsIh4xPYa_OsrxyFgTFYEL4NQH1QYS6gLBxlJ-q2BiNQxFr6oVvtc-YEI&s", Test
 
-#EXTINF:1460, Lionel Messi Destiny
-#EXTVLCOPT:network-caching=1000
-http://content.discoveryftp.net/secure/PlTSUHLoDm51wyuC178UWw/1686468118/Movies/Others/2023/Lionel%20Messi%20Destiny/Lionel.Messi.Destiny.2023.1080p.iP.WEB-DL.AAC2.0.H.264-turtle.mkv
-        
+https://remoteconfig6484bc7e04f2c.firebasecloud.host/ywnfes5Xsp1vN1nsxFk9/def86.php
 
 
 #EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN~🧏",SonyLIV
@@ -55,13 +52,9 @@ http://stream.medialink24.net:9191/btv/index.m3u8?token=3d74509b25c3d1ab04e6ce2c
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="http://tv.bdixsports.com/uploads/tv_image/sm/btv-world.jpg", BTV World
 
-#http://103.106.2.149:13456/btv_world.m3u8
+#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
-
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/120
-
-#http://nayeemparvez-btv.hopto.org:13456/btv_world.m3u8
+https://www.btvlive.gov.bd/streams/p4ukR0dpdMQYrfWoaUGx/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_1_playlist.m3u8
 
 
 
@@ -504,7 +497,9 @@ http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://cdn.aliflailabd.com/tv/images/maasranga.png", Maasranga TV
 
-http://stream.medialink24.net:9191/maasranga/tracks-v1a1/mono.m3u8?token=44ef044a7550abfc4ca503db6f23877cbbb7d33d-6cea0f167082abaf1f8177671bcdf9a1-1683492400-1683481600
+#http://stream.medialink24.net:9191/maasranga/tracks-v1a1/mono.m3u8?token=44ef044a7550abfc4ca503db6f23877cbbb7d33d-6cea0f167082abaf1f8177671bcdf9a1-1683492400-1683481600
+
+http://iptv.kitv.live:1935/live/MTV-Live/Mtv-Live/1.m3u8
 
 
 
@@ -1156,9 +1151,17 @@ http://12.1.1.1:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=dc69b85eeb72aa1
 
 
 
-#EXTINF:-1 group-title="Movie Channel ??" tvg-logo="https://channel52.tv/logo.jpg", Amar Cinema
+#EXTINF:-1 group-title="Movie Channel 🎥" tvg-logo="https://encrypted-mages?usqp=CAU", Amar Bangla
 
-https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/live-orgin/amarbanglatv.stream/chunks.m3u8?nimblesessionid=1440561245
+#https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Movie Channel 🎥" tvg-logo="hstom/DHg&usqp=CAU", Amar Digital
+
+#https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 
 
 
@@ -2008,6 +2011,7 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/217
 #EXTINF:-1 group-title="Music's~🎼🎶" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSemkQaa9Z9pjxg33kY8HcWZy-YDtZejME5Hg&usqp=CAU",Sangeet Bangla
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+
 
 
 
