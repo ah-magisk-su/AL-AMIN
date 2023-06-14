@@ -8,10 +8,9 @@
 
 
 
-#EXTINF:-1 group-title="AL-AMIN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFa7t0SUJEnaNsIh4xPYa_OsrxyFgTFYEL4NQH1QYS6gLBxlJ-q2BiNQxFr6oVvtc-YEI&s", Test
+#EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN~🧏",SonyLIV
 
-https://remoteconfig6484bc7e04f2c.firebasecloud.host/ywnfes5Xsp1vN1nsxFk9/def86.php
-
+https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
 
 #EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN~🧏",SonyLIV
 
@@ -52,9 +51,13 @@ http://stream.medialink24.net:9191/btv/index.m3u8?token=3d74509b25c3d1ab04e6ce2c
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="http://tv.bdixsports.com/uploads/tv_image/sm/btv-world.jpg", BTV World
 
-#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+#http://103.106.2.149:13456/btv_world.m3u8
 
-https://www.btvlive.gov.bd/streams/p4ukR0dpdMQYrfWoaUGx/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_1_playlist.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/120
+
+#http://nayeemparvez-btv.hopto.org:13456/btv_world.m3u8
 
 
 
@@ -497,9 +500,7 @@ http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://cdn.aliflailabd.com/tv/images/maasranga.png", Maasranga TV
 
-#http://stream.medialink24.net:9191/maasranga/tracks-v1a1/mono.m3u8?token=44ef044a7550abfc4ca503db6f23877cbbb7d33d-6cea0f167082abaf1f8177671bcdf9a1-1683492400-1683481600
-
-http://iptv.kitv.live:1935/live/MTV-Live/Mtv-Live/1.m3u8
+http://stream.medialink24.net:9191/maasranga/tracks-v1a1/mono.m3u8?token=44ef044a7550abfc4ca503db6f23877cbbb7d33d-6cea0f167082abaf1f8177671bcdf9a1-1683492400-1683481600
 
 
 
@@ -638,15 +639,6 @@ http://stream.medialink24.net:9191/ntv/index.m3u8?token=c0b9cbd524ba0b2d7706e0b9
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://www.ntvbd.coites/all/themes/sloth/logo.png", Open TV
 
 https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="Unable to download videos due to youtube policy. You can send an email to us and we will help you.", Pan Vision
-
-https://bd.jagobd.com/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/live-orgin/panvisiontvs.stream/chunks.m3u8
 
 
 
@@ -844,10 +836,7 @@ https://cdn2.aliflailabd.com/natgeo-wild/tracks-v1a1/mono.m3u8?token=9e1cdd7522a
 
 #EXTINF:-1 group-title="Documentary~🌏" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaFR5wgChLSsWiARrd2lU227R-N2KMphten8R5O-Y&usqp=CAU",Animal Planet
 
-#http://stream.medialink24.net:9191/animal-planet/tracks-v1a1/mono.m3u8?token=79f436f0dfea8cfc1641f16cd32aa742122c61b1-e8fffbbfa6af9fe331546bb9f89c7fbd-1684170566-1684159766
-
-http://93.114.194.26:25461/live/mahesh12/mahesh12/98873.m3u8?token=ShJcU0BbQQNHAFJdBAAGAV9RCABSBgJWVFBaUQYCUQdVU1YAClZTDVEbGBpEF0dcWF1vWQIXXlgJWlUESUZGQVRCa1tXEVkbVw0CDwNUFxUbRFldAxdeUR1AEl4BRgkQAwgGBAYRTxsAQUBdRQ1UVWZUVUYPVgFDCwwXWwlIEV1fb1BXXlINXUcDFggVTxdQSkASCghACA0dQABeERZSRlQSDhAAA1sMRxUWW1gWW01LSRIKRHcgQx1AB08RAV1BWF9aEAkRDgoQARYUFQpGZktVQ0QUUAUMVBBADUdUER4TXVVKbFAMVwtcV0xeDFtKGwoSAUQZRgxeDAtDChZsQlhUFggRB1MPUhtJ
-
+http://stream.medialink24.net:9191/animal-planet/tracks-v1a1/mono.m3u8?token=79f436f0dfea8cfc1641f16cd32aa742122c61b1-e8fffbbfa6af9fe331546bb9f89c7fbd-1684170566-1684159766
 
 
 
@@ -963,11 +952,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 
 #http://stream.medialink24.net:9191/star-jalsha/index.m3u8?token=2c8d5cab8a19635a102333a9a5e20a5bfa1343de-18c146733be0e1339d6228885ae7fb58-1683781793-1683770993
 
-#http://12.1.1.1:8082/Star-Jalsha/index.m3u8?token=274bf39eb58055240bb50cbd48749c61a311eea8-0478dad9102d0d12cea4f9b8ad72d581-1685990873-1685980073
-
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
-
-
+http://12.1.1.1:8082/Star-Jalsha/index.m3u8?token=274bf39eb58055240bb50cbd48749c61a311eea8-0478dad9102d0d12cea4f9b8ad72d581-1685990873-1685980073
 
 
 
@@ -1151,17 +1136,9 @@ http://12.1.1.1:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=dc69b85eeb72aa1
 
 
 
-#EXTINF:-1 group-title="Movie Channel 🎥" tvg-logo="https://encrypted-mages?usqp=CAU", Amar Bangla
+#EXTINF:-1 group-title="Movie Channel 🎥" tvg-logo="https://channel52.tv/logo.jpg", Amar Cinema
 
-#https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="Movie Channel 🎥" tvg-logo="hstom/DHg&usqp=CAU", Amar Digital
-
-#https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/live-orgin/amarbanglatv.stream/chunks.m3u8?nimblesessionid=1440561245
 
 
 
@@ -1195,9 +1172,9 @@ https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSezfpdiqixM-9IbPGkVCy_8YGLno4TEhRRZv4rffjclb_p6b90NJwr1i0&usqp=CAU" group-title="Movie Channel 🎥", Bflix
+#EXTINF:-1 tvg-id="4" tvg-logo="https://images.app.goo.gl/fk2UXX3nnjrgL4HQ6" group-title="Movie Channel 🎥", Goldmines
 
-https://shorturl.at/fmsKP
+https://fifabangladesh.tk/IPTV/xx.php?id=176311
 
 
 
@@ -1229,9 +1206,9 @@ https://idvd.multitvsolution.com/idvo/wowcinema.m3u8
 
 
 
-#EXTINF:-1 tvg-id="4" tvg-logo="http://jiotvg" group-title="Movie Channel 🎥", Dhoom Movies
+#EXTINF:-1 tvg-id="4" tvg-logo="http://jiotvg" group-title="Movie Channel 🎥", Aryaa Cinema
 
-https://yupplivefragcp5.yuppcdn.net/030523/smil:dhoom.smil/playlist.m3u8?hdnts=st=1686412076~exp=1686412676~acl=!*/030523/smil:dhoom.smil/*!/payload/yuppTVCom_61_-1_235b4accce3144a7_BD_103.122.251.204/*~hmac=e0f03713ab11bfb7d3fbf781c706bc4fc1baa639b57b42440f5183e159e924d1&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.lang=BEN&ads.content_genre=MUS&ads.channel=247
+https://mhdtv.co.in/jio/app/live/2189/Aaryaa_Cinema/479b4cbf0975ca3737671d3df89a99180af2e4a62a9b0a342634a66bc5082e5d1bfa4e2239f82a6fd9d0ba2a66be8cf1f96e0837e6e2cdcd52a12d2028cfa4ceb092dee7a2e7de0ba3b50f041ab19d9f_playlist.m3u8
 
 
 
@@ -1299,7 +1276,7 @@ https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="4" tvg-logo="none" group-title="Movie Channel 🎥", B4U Movies
+#EXTINF:-1 tvg-id="4" tvg-logo="" group-title="Movie Channel 🎥", B4U Movies
 
 https://mhdtv.co.in/jio/app/live/182/B4U_Movies/479b4cbf0975ca3737671d3df89a99180af2e4a62a9b0a342634a66bc5082e5d465073b15a933b8a275075ec84d2bf198e54a1019e22e84ef6701cee0c55ec95_playlist.m3u8
 
@@ -1311,14 +1288,14 @@ https://mhdtv.co.in/jio/app/live/182/B4U_Movies/479b4cbf0975ca3737671d3df89a9918
 
 
 
-#EXTINF:-1 tvg-id="4" tvg-logo="none" group-title="Movie Channel 🎥",Sun TV HD
+#EXTINF:-1 tvg-id="4" tvg-logo="" group-title="Movie Channel 🎥",Sun TV HD
 
 https://mhdtv.co.in/jio/app/live/896/Sun_TV_HD/479b4cbf0975ca3737671d3df89a99180af2e4a62a9b0a342634a66bc5082e5da957e535fed8f6dbe545eafc6917b888bd5a56da47eeae65127404db82d696f6514a41271b010fe8779d004cf2509650230b686569e5ef4f6efac6e05816fd4812071ec1717c516d8dc8ab9be0f11c4e0ab9e6de1c69f19b1e14a11fce2ddb76_playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="4" tvg-logo="none" group-title="Movie Channel 🎥",Colors Tamil
+#EXTINF:-1 tvg-id="4" tvg-logo="" group-title="Movie Channel 🎥",Colors Tamil
 
 https://mhdtv.co.in/jio/app/live/1371/Colors_Tamil/479b4cbf0975ca3737671d3df89a99180af2e4a62a9b0a342634a66bc5082e5d4aa1e6db80bdff0f44a9ce8b19d8989cdac4b8dc33a5d3fc41de7cd64d25863210ec7778f738a2d5562b245291d0e3d3_playlist.m3u8
 
@@ -1326,7 +1303,7 @@ https://mhdtv.co.in/jio/app/live/1371/Colors_Tamil/479b4cbf0975ca3737671d3df89a9
 
 
 
-#EXTINF:-1 tvg-id="4" tvg-logo="none" group-title="Movie Channel 🎥",Sony Crackle HD
+#EXTINF:-1 tvg-id="4" tvg-logo="" group-title="Movie Channel 🎥",Sony Crackle HD
 
 https://crackle-plex.amagi.tv/playlist720p.m3u8
 
@@ -1852,17 +1829,17 @@ http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Kid's~🚸" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
+#EXTINF:-1 group-title="Kid's~🚸" tvg-logo="https://i.imgur.com/TTL6oj5.png",Cartoon Network
 
-#http://stream.medialink24.net:9191/cartoon-network/index.m3u8?token=976b374bc528fcfa20241396006633286b909376-11e20fd92bab9cc67d21be8406fa92d6-1682848159-1682837359
-
-http://213.183.62.235/live/mahesh12/mahesh12/8.m3u8?token=ShJcU0BbQQNHCQNaUlICXQlUBgJWAVYDUlEADgBTUAEHAVYEBlUGXFMbGBpEF0dcWF1vWQIXXlkdQBdEABZsW1USDhABB1UOUQ4WFBUXXFRcEgoAShcUCFVAWBVXUgUBAxIYEFZLF1wXV1VUaAdQT1BTVRJcWxENXU5AWAs7V1dcUVpWEQlBCUcVFlFEExcDV0VcXEoXBghFEANDAEYJEAcCBRAfEQBWEFdASk5BDxt7dBIcRFAcFVQMEV4KChEIE10HRwsRTxsMSmtKUhBBS1xRXVUUF15DAUBOFQgFS21SX1pcVlAXUApXRxoNQQQbFRJdXwhcEA5DPRJeAUYJEAABDAMAER4=
+http://stream.medialink24.net:9191/cartoon-network/index.m3u8?token=976b374bc528fcfa20241396006633286b909376-11e20fd92bab9cc67d21be8406fa92d6-1682848159-1682837359
 
 
 
 
 
-#EXTINF:-1 group-title="Kid's~🚸" tvg-logo="https://www.durbinlive.com/uploads/tv_image/sm/nickelodeon-bangla.gif",Nick
+
+
+#EXTINF:-1 group-title="Kid's~🚸" tvg-logo="http://103.106.243.113:7171/nick/logo",Nick
 
 http://stream.medialink24.net:9191/nick/index.m3u8?token=901bf800e2dfc2cf95e9c9b3653198791a4baa46-4b18631031555298002f165b36ce0c68-1683910691-1683899891
 
@@ -2011,7 +1988,6 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/217
 #EXTINF:-1 group-title="Music's~🎼🎶" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSemkQaa9Z9pjxg33kY8HcWZy-YDtZejME5Hg&usqp=CAU",Sangeet Bangla
 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-
 
 
 
