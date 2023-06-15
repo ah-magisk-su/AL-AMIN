@@ -53,12 +53,11 @@ http://stream.medialink24.net:9191/btv/index.m3u8?token=3d74509b25c3d1ab04e6ce2c
 
 #http://103.106.2.149:13456/btv_world.m3u8
 
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
-
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/120
+#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
 #http://nayeemparvez-btv.hopto.org:13456/btv_world.m3u8
 
+https://fifabangladesh.tk/IPTV/xx.php?id=176075
 
 
 
@@ -67,10 +66,11 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #http://103.106.2.149:13456/btv_ctg.m3u8
 
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
-
+#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 
 #http://nayeemparvez-btv.hopto.org:13456/btv_ctg.m3u8
+
+https://fifabangladesh.tk/IPTV/xx.php?id=176077
 
 
 
@@ -798,9 +798,9 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/169
 
 #EXTINF:-1 group-title="Documentary~🌏" tvg-logo="https://lapublicidad.net/wp-content/uploads/2017/01/Discovery_Channel_International.jpg",Discovery (Bangla)
 
-http://12.1.1.1:8082/Discovery-Tv/tracks-v1a1/mono.m3u8?token=70a89faca5a6562bdff2f6ea1d366ddf38b57d6f-b7cf7173b9cc91af48e43a507630b5fe-1685875445-1685864645
+#http://12.1.1.1:8082/Discovery-Tv/tracks-v1a1/mono.m3u8?token=70a89faca5a6562bdff2f6ea1d366ddf38b57d6f-b7cf7173b9cc91af48e43a507630b5fe-1685875445-1685864645
 
-#http://mhdtvworld.me/delta/discovery/api/Discovery_Bangla.m3u8
+https://yashrajmod.online/Discovery/989/Discovery_Channel.m3u8
 
 
 
@@ -952,7 +952,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 
 #http://stream.medialink24.net:9191/star-jalsha/index.m3u8?token=2c8d5cab8a19635a102333a9a5e20a5bfa1343de-18c146733be0e1339d6228885ae7fb58-1683781793-1683770993
 
-http://12.1.1.1:8082/Star-Jalsha/index.m3u8?token=274bf39eb58055240bb50cbd48749c61a311eea8-0478dad9102d0d12cea4f9b8ad72d581-1685990873-1685980073
+https://fifabangladesh.tk/IPTV/xx.php?id=175701
 
 
 
@@ -1175,6 +1175,13 @@ https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF:-1 tvg-id="4" tvg-logo="https://images.app.goo.gl/fk2UXX3nnjrgL4HQ6" group-title="Movie Channel 🎥", Goldmines
 
 https://fifabangladesh.tk/IPTV/xx.php?id=176311
+
+
+
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://images.app.goo.gl/fk2UXX3nnjrgL4HQ6" group-title="Movie Channel 🎥", BFlix
+
+https://fifabangladesh.tk/IPTV/xx.php?id=176156
 
 
 
