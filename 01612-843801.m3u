@@ -8,19 +8,20 @@
 
 
 
-#EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN~🧏",SonyLIV
+#EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN~🧏", ARG VS AUS
 
-https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
-
-#EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN~🧏",SonyLIV
-
-https://medialive.jiocinema.com/bpk-tv/F22_M1_BengaliHD_DIG_MOB/Fallbac
+https://fifabangladesh.tk/IPTV/xx.php?id=179857
 
 
 #EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN~🧏",SonyLIV
 
 https://medialive.jiocinema.com/bpk-tv/F22_M1_BengaliHD_DIG_MOB/Fallbac
 
+
+#EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN~🧏",SonyLIV
+
+https://medialive.jiocinema.com/bpk-tv/F22_M1_BengaliHD_DIG_MOB/Fallbac
+
 #EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN~🧏",SonyLIV
 
 https://medialive.jiocinema.com/bpk-tv/F22_M1_BengaliHD_DIG_MOB/Fallbac
@@ -41,7 +42,7 @@ https://medialive.jiocinema.com/bpk-tv/F22_M1_BengaliHD_DIG_MOB/Fallbac
 
 
 
-#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736", BTV
+#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75", BTV
 
 http://stream.medialink24.net:9191/btv/index.m3u8?token=3d74509b25c3d1ab04e6ce2c89aa39c1fd3606ce-734c45fdd38ef9d06d9cc599843951a6-1683493563-1683482763
 
@@ -49,7 +50,7 @@ http://stream.medialink24.net:9191/btv/index.m3u8?token=3d74509b25c3d1ab04e6ce2c
 
 
 
-#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="http://tv.bdixsports.com/uploads/tv_image/sm/btv-world.jpg", BTV World
+#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193145934_4.png&w=3840&q=75", BTV World
 
 #http://103.106.2.149:13456/btv_world.m3u8
 
@@ -62,7 +63,7 @@ https://fifabangladesh.tk/IPTV/xx.php?id=176075
 
 
 
-#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://pcdn.jagobd.com/images/s-5z08zn1591534015310.jpg", BTV CTG
+#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193167149_3.png&w=3840&q=75", BTV CTG
 
 #http://103.106.2.149:13456/btv_ctg.m3u8
 
@@ -96,9 +97,9 @@ https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzb
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/HRjXQdYEqsE.png", Ananda TV
 
-https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
+#https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
 
-
+https://cdn2.aliflailabd.com/ananda-tv/index.m3u8?token=a83d24ec555701f9cab059898452f93d9d3ab209-8e5589c6045918192616de11d0560b90-1686899489-1686895889
 
 
 
@@ -326,7 +327,7 @@ https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 
 
-#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://pcdn.jagobd.com/images/s-o4ul871591516601555.jpg", Deshe Bideshe
+#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOL8kXg_BBUW_PkQyGVEYrLnWRqFhTr_rxKg&usqp=CAU", Deshe Bideshe
 
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 
@@ -843,7 +844,7 @@ http://stream.medialink24.net:9191/animal-planet/tracks-v1a1/mono.m3u8?token=79f
 
 
 
-#EXTINF:-1 group-title="Documentary~🌏" tvg-logo="https://encrypted-tbn0.CAU", EPIC
+#EXTINF:-1 group-title="Documentary~🌏" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcjcv8ATbG7sL_RFFezJwqQMBKLbz1Uw5Mpw&usqp=CAU", EPIC
 
 https://epiconvh.s.llnwi.net/epic/master.m3u8
 
@@ -952,7 +953,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 
 #http://stream.medialink24.net:9191/star-jalsha/index.m3u8?token=2c8d5cab8a19635a102333a9a5e20a5bfa1343de-18c146733be0e1339d6228885ae7fb58-1683781793-1683770993
 
-https://fifabangladesh.tk/IPTV/xx.php?id=175701
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 
 
 
