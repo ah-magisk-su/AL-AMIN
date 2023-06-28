@@ -408,17 +408,11 @@ https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",INDEPENDENT TV
 
-#https://last.gcdn.co/IND430/index.m3u8
-
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/193
-
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/44
+https://cdn.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8
 
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29104
+
 
 
 
@@ -811,9 +805,9 @@ https://yashrajmod.online/Discovery/989/Discovery_Channel.m3u8
 
 #EXTINF:-1 group-title="Documentary~🌏" tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/05/National-geographic-Channel-300x156.jpg", Nat Geo (Bangla)
 
-https://cdn2.aliflailabd.com/natgeo-in/tracks-v1a1/mono.m3u8?token=7bb0278200e0c83a266b50da2ae771be8eaed52e-ffb24ed325c553a6ffeb7d9de64278e5-1683450332-1683446732
+#https://cdn2.aliflailabd.com/natgeo-in/tracks-v1a1/mono.m3u8?token=7bb0278200e0c83a266b50da2ae771be8eaed52e-ffb24ed325c553a6ffeb7d9de64278e5-1683450332-1683446732
 
-
+http://xtv.ooo:8080/live/1236547890/1236547890/109977.m3u8
 
 
 
@@ -1284,7 +1278,7 @@ https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="4" tvg-logo="" group-title="Movie Channel 🎥", B4U Movies
+#EXTINF:-1 tvg-id="4" tvg-logo="none" group-title="Movie Channel 🎥", B4U Movies
 
 https://mhdtv.co.in/jio/app/live/182/B4U_Movies/479b4cbf0975ca3737671d3df89a99180af2e4a62a9b0a342634a66bc5082e5d465073b15a933b8a275075ec84d2bf198e54a1019e22e84ef6701cee0c55ec95_playlist.m3u8
 
@@ -1296,14 +1290,14 @@ https://mhdtv.co.in/jio/app/live/182/B4U_Movies/479b4cbf0975ca3737671d3df89a9918
 
 
 
-#EXTINF:-1 tvg-id="4" tvg-logo="" group-title="Movie Channel 🎥",Sun TV HD
+#EXTINF:-1 tvg-id="4" tvg-logo="none" group-title="Movie Channel 🎥",Sun TV HD
 
 https://mhdtv.co.in/jio/app/live/896/Sun_TV_HD/479b4cbf0975ca3737671d3df89a99180af2e4a62a9b0a342634a66bc5082e5da957e535fed8f6dbe545eafc6917b888bd5a56da47eeae65127404db82d696f6514a41271b010fe8779d004cf2509650230b686569e5ef4f6efac6e05816fd4812071ec1717c516d8dc8ab9be0f11c4e0ab9e6de1c69f19b1e14a11fce2ddb76_playlist.m3u8
 
 
 
 
-#EXTINF:-1 tvg-id="4" tvg-logo="" group-title="Movie Channel 🎥",Colors Tamil
+#EXTINF:-1 tvg-id="4" tvg-logo="none" group-title="Movie Channel 🎥",Colors Tamil
 
 https://mhdtv.co.in/jio/app/live/1371/Colors_Tamil/479b4cbf0975ca3737671d3df89a99180af2e4a62a9b0a342634a66bc5082e5d4aa1e6db80bdff0f44a9ce8b19d8989cdac4b8dc33a5d3fc41de7cd64d25863210ec7778f738a2d5562b245291d0e3d3_playlist.m3u8
 
@@ -1311,7 +1305,7 @@ https://mhdtv.co.in/jio/app/live/1371/Colors_Tamil/479b4cbf0975ca3737671d3df89a9
 
 
 
-#EXTINF:-1 tvg-id="4" tvg-logo="" group-title="Movie Channel 🎥",Sony Crackle HD
+#EXTINF:-1 tvg-id="4" tvg-logo="none" group-title="Movie Channel 🎥",Sony Crackle HD
 
 https://crackle-plex.amagi.tv/playlist720p.m3u8
 
@@ -2462,32 +2456,32 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 
 
 
-#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png", Sony Ten 1
+##EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png", Sony Ten 1
 
 https://dai.google.com/ssai/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 
 
 
-#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png", Sony Ten 2
+##EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png", Sony Ten 2
 
 
 https://dai.google.com/ssai/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
 
 
 
-#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png", Sony Ten 3
+##EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png", Sony Ten 3
 
 https://dai.google.com/ssai/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 
 
 
-#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png", Sony Ten 4
+##EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png", Sony Ten 4
 
 https://dai.google.com/ssai/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 
 
 
-#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png", Sony Ten 5
+##EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png", Sony Ten 5
 
 https://dai.google.com/ssai/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
@@ -2495,21 +2489,26 @@ https://dai.google.com/ssai/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
 #EXTINF:-1 tvg-id="1000009276" group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png", Sony Ten 1 HD
 
-https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#https://dai.google.com/ssai/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
+https://cdn2.aliflailabd.com/sony-ten1/index.m3u8?token=b622f3e00d2280656d550a2876ff01525aa81344-2690aec1a40e275b5e41c4fa6d8fd3c5-1687890058-1687886458
 
 
 
 #EXTINF:-1 tvg-id="1000009277" group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png", Sony Ten 2 HD
 
-https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+https://cdn2.aliflailabd.com/sony-ten2/index.m3u8?token=1d47a57071e1e1f01375d23c512f056501351ed0-90841adeb9a0435150c46de1eae3999d-1687890206-1687886606
 
 
 
 
 #EXTINF:-1 tvg-id="1000009278" group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png", Sony Ten 3 HD
 
-https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+https://cdn2.aliflailabd.com/sony-ten3/index.m3u8?token=0e31599eba56aeb08bf5f96513df7dd2e0cd6dfe-a3f3f2afd843ed2bcee8505550ec7d44-1687890253-1687886653
 
 
 
@@ -2521,7 +2520,9 @@ https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 
 #EXTINF:-1 tvg-id="1000009275" group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png", Sony Ten 5 HD
 
-https://dai.google.com/ssai/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#https://dai.google.com/ssai/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+https://cdn2.aliflailabd.com/sony-ten5/index.m3u8?token=d03873eafd3f12437ec1b975fece6b2111a16308-eb1d7fcacef0c676c977eeeebb723fad-1687890285-1687886685
 
 
 
