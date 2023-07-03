@@ -52,26 +52,18 @@ http://stream.medialink24.net:9191/btv/index.m3u8?token=3d74509b25c3d1ab04e6ce2c
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193145934_4.png&w=3840&q=75", BTV World
 
-#http://103.106.2.149:13456/btv_world.m3u8
-
 #https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
-#http://nayeemparvez-btv.hopto.org:13456/btv_world.m3u8
-
-https://fifabangladesh.tk/IPTV/xx.php?id=176075
+https://toffee-thecodecrafters.vercel.app/auto/btv_world.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193167149_3.png&w=3840&q=75", BTV CTG
 
-#http://103.106.2.149:13456/btv_ctg.m3u8
-
 #https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 
-#http://nayeemparvez-btv.hopto.org:13456/btv_ctg.m3u8
-
-https://fifabangladesh.tk/IPTV/xx.php?id=176077
+https://toffee-thecodecrafters.vercel.app/auto/btv_ctg.m3u8
 
 
 
@@ -79,8 +71,9 @@ https://fifabangladesh.tk/IPTV/xx.php?id=176077
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png", Sangsad TV
 
-http://stream.medialink24.net:9191/sangsad-tv/index.m3u8?token=99242e4a1c791cf46de44abb5a2557da24bd84cd-0a1cf4c2b2fe86a7e4d4b10ec7c72e0f-1683493501-1683482701
+#http://stream.medialink24.net:9191/sangsad-tv/index.m3u8?token=99242e4a1c791cf46de44abb5a2557da24bd84cd-0a1cf4c2b2fe86a7e4d4b10ec7c72e0f-1683493501-1683482701
 
+https://toffee-thecodecrafters.vercel.app/auto/btv_sangshodh.m3u8
 
 
 
@@ -99,7 +92,7 @@ https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzb
 
 #https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
 
-https://cdn2.aliflailabd.com/ananda-tv/index.m3u8?token=a83d24ec555701f9cab059898452f93d9d3ab209-8e5589c6045918192616de11d0560b90-1686899489-1686895889
+https://toffee-thecodecrafters.vercel.app/auto/ananda_tv.m3u8
 
 
 
@@ -181,7 +174,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://pcdn1.jagobd.com/images/xs-uj7se61652461722203.jpg", Bijoy TV HD
 
-http://stream.medialink24.net:9191/bijoy-tv/index.m3u8?token=9cbb223ee6f88aa5a4a608f7e5a6cf1c0758339b-a19dac1b5c2a4aba232f7c1301d29dcd-1685295777-1685284977
+https://toffee-thecodecrafters.vercel.app/auto/bijoy_tv.m3u8
 
 
 
@@ -222,7 +215,7 @@ https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 #https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/playlist.m3u8
 
-http://stream.medialink24.net:9191/channel9/video.m3u8?token=rqIwQB1Aod9Br3
+https://toffee-thecodecrafters.vercel.app/auto/channel_9.m3u8
 
 
 
@@ -240,7 +233,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
 
-https://cdn2.aliflailabd.com/channel-i/index.m3u8?token=d6165780a7da9b9aa4db971e38a01b6bda7a36d7-d748dfed2b8cf050d81a436af348f83f-1688021064-1688017464
+https://toffee-thecodecrafters.vercel.app/auto/channel_i.m3u8
+
+
 
 
 
@@ -319,9 +314,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://cdn.aliflailabd.com/tv/images/deshtv.png", Desh TV
 
-#http://stream.medialink24.net:9191/desh-tv/tracks-v1a1/mono.m3u8?token=1fa7dfd48e56f7e101375a17dd09724632ed0b94-ea11b1a6ca9bb30c26f6847a0ce47303-1683492962-1683482162
 
-https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshtv.stream/playlist.m3u8
+#https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshtv.stream/playlist.m3u8
+
+https://toffee-thecodecrafters.vercel.app/auto/desh_tv.m3u8
 
 
 
@@ -354,7 +350,7 @@ https://cdn2.aliflailabd.com/duronto-tv/tracks-v1a1/mono.m3u8?token=f1107a4b0e5a
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png", Ekattor TV
 
-https://cdn2.aliflailabd.com/ekattor/index.m3u8?token=8bceeace74d65712617867216d574413cdef3c90-246f53f12bf2fc3d97f567373bc15b15-1683887039-1683883439
+https://toffee-thecodecrafters.vercel.app/auto/ekattor_hd.m3u8
 
 
 
@@ -370,17 +366,12 @@ https://cdn2.aliflailabd.com/Ekhon_tv/index.m3u8?token=50aa8c58969be776485759d05
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://cdn.aliflailabd.com/tv/images/etv.png", Ekusey TV
 
-https://ekusheyserver.com/etvlivesn.m3u8
+#https://ekusheyserver.com/etvlivesn.m3u8
 
 #http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
+https://toffee-thecodecrafters.vercel.app/auto/ekushey_tv.m3u8
 
-
-
-
-#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH53IpY_HBvk3hwjZ6tgnD5JiA2MFRRzVg1KXjAgg&usqp=CAU", Euro Bangla TV
-
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/222
 
 
 
@@ -396,6 +387,14 @@ http://stream.medialink24.net:9191/gaanbangla/tracks-v1a1/mono.m3u8?token=50714d
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://cdn.aliflailabd.com/tv/images/gtv.png", Gazi TV HD
 
 https://cdn2.aliflailabd.com/gazi-tv/tracks-v1a1/mono.m3u8?token=2bbbdb71836491bebdfd2d129d23300d8918d450-2fe22a3cb94dea812a584f9a166613e6-1683453070-1683449470
+
+
+
+
+
+#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://cdn.aliflailabd.com/tv/iges/gtv.png", Global TV
+
+https://toffee-thecodecrafters.vercel.app/auto/global_tv.m3u81
 
 
 
@@ -981,7 +980,7 @@ https://cdn2.aliflailabd.com/zee-bangla/index.m3u8?token=275bbd5232f1037e835b18d
 
 https://rohabtv.musajeeb.online/Sony-Aath/index.fmp4.m3u8?token=44e94a2c9835f3ae8b49108cab7da4b3c35a4ba1-3ef4f2a56e014405e64ad9b907ce1cf0-1687960368-1687949568
 
-
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 
 
@@ -1143,6 +1142,8 @@ http://live.globalflix.net/whatsapp/01971466614/327.m3u8
 
 http://12.1.1.1:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=dc69b85eeb72aa11b75936c4d1d941f08b1a43ef-3aac8d5bb1980cb7cdfe4c9cd5a145fa-1683895107-1683884307
 
+#http://208.86.19.13:81/7088.stream/index.m3u8
+
 
 
 
@@ -1159,7 +1160,7 @@ https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/190px-Sony_Max_new.png" group-title="Movie Channel 🎥",Sony Max
 
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+https://toffee-thecodecrafters.vercel.app/auto/sony_max.m3u8
 
 
 
@@ -1169,7 +1170,9 @@ https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 
 #https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 
-https://rohabtv.musajeeb.online/Sony-MAX/index.fmp4.m3u8?token=f208b0a0309831e90ce6ffc742813dc9b55da45c-4c5b4831f1641a4b608fec3b1255f044-1687960920-1687950120
+#https://rohabtv.musajeeb.online/Sony-MAX/index.fmp4.m3u8?token=f208b0a0309831e90ce6ffc742813dc9b55da45c-4c5b4831f1641a4b608fec3b1255f044-1687960920-1687950120
+
+https://toffee-thecodecrafters.vercel.app/auto/set_max_hd.m3u8
 
 
 
@@ -1177,7 +1180,7 @@ https://rohabtv.musajeeb.online/Sony-MAX/index.fmp4.m3u8?token=f208b0a0309831e90
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Sony_Max_2_new.png/180px-Sony_Max_2_new.png" group-title="Movie Channel 🎥",Sony Max 2 HD
 
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+https://toffee-thecodecrafters.vercel.app/auto/sony_max_2.m3u8
 
 
 
@@ -1191,18 +1194,20 @@ https://fifabangladesh.tk/IPTV/xx.php?id=176311
 
 
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://images.app.goo.gl/fk2UXX3nnjrgL4HQ6" group-title="Movie Channel 🎥", BFlix
-
-https://fifabangladesh.tk/IPTV/xx.php?id=176156
 
 
-
-
-
-
-#EXTINF:-1 tvg-id="4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRI29z_VTEJ_8gbp4oeZByE8GQrEHLcCtgn4AdR04c66I82VV39uzkyUs&usqp=CAU"Movie Channel 🎥", Maha Movie
+#EXTINF:-1 tvg-id="4" tvg-logo="https://images.app.goo.gl/fk2UXX3nnjrgL4HQ6" group-title="Mvie Channel 🎥", BFlix
 
 https://idvd.multitvsolution.com/idvo/mahamovie.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="4" tvg-logo="https://images.app.goo.gl/fk2UXnnjrgL4HQ6" group-title="Movie Channel 🎥", Fox Movie
+
+http://stream-live.in:11037/hls/foxtv.m3u8
 
 
 
@@ -1280,7 +1285,9 @@ http://stream.medialink24.net:9191/Colors-cineplex/index.m3u8?token=2153cf83ab29
 
 #https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
-https://rohabtv.musajeeb.online/Sony-PIX/index.fmp4.m3u8?token=7f94c8b63ab4a29696b2a3802bee3e3cf8c00ac0-78f2262b41f8b1179988097722f200ea-1687961096-1687950296
+#https://rohabtv.musajeeb.online/Sony-PIX/index.fmp4.m3u8?token=7f94c8b63ab4a29696b2a3802bee3e3cf8c00ac0-78f2262b41f8b1179988097722f200ea-1687961096-1687950296
+
+https://toffee-thecodecrafters.vercel.app/auto/sony_pix_hd.m3u8
 
 
 
@@ -1343,7 +1350,9 @@ http://stream.medialink24.net:9191/and-picture/index.m3u8?token=a6b4c469efaebe19
 
 #EXTINF:-1 tvg-id="4" tvg-logo="https://shortuZ6" group-title="Movie Channel 🎥", & Pictures HD
 
-http://93.114.194.26:25461/live/mahesh12/mahesh12/98856.m3u8?token=ShJcU0BbQQNHWwcIUwFWC1pTA1FRAFFXBwdXB1EBUQECUVVTVVVQDAMbGBpEF0dcWF1vWQIXXlgJWlcBSUZGQVRCa1tXEVkbVw0CDwNUFxUbRFldAxdeUR1AEl4BRgkQAAAMAAIRTxsAQUBdRQ1UVWZUVUYPVgFDCwwXWwlIEV1fb1BXXlINXUcDFggVTxdQSkASCghACA0dQABeERZSRlQSDhAAAVcIRxUWW1gWW01LSRIKRHcgQx1AB08RAV1BWF9aEAkRDgoQARYUFQpGZktVQ0QUUAUMVBBADUdUER4TXVVKbFAMVwtcV0xeDFtKGwoSAUQZRgxeDAtDChZsQlhUFggRBlcKVxtJ
+#http://93.114.194.26:25461/live/mahesh12/mahesh12/98856.m3u8?token=ShJcU0BbQQNHWwcIUwFWC1pTA1FRAFFXBwdXB1EBUQECUVVTVVVQDAMbGBpEF0dcWF1vWQIXXlgJWlcBSUZGQVRCa1tXEVkbVw0CDwNUFxUbRFldAxdeUR1AEl4BRgkQAAAMAAIRTxsAQUBdRQ1UVWZUVUYPVgFDCwwXWwlIEV1fb1BXXlINXUcDFggVTxdQSkASCghACA0dQABeERZSRlQSDhAAAVcIRxUWW1gWW01LSRIKRHcgQx1AB08RAV1BWF9aEAkRDgoQARYUFQpGZktVQ0QUUAUMVBBADUdUER4TXVVKbFAMVwtcV0xeDFtKGwoSAUQZRgxeDAtDChZsQlhUFggRBlcKVxtJ
+
+https://toffee-thecodecrafters.vercel.app/auto/and_picture_hd.m3u8
 
 
 
