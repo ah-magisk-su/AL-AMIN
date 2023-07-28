@@ -810,7 +810,7 @@ https://rohabtvaudio.online/api/hls/Discovery_Bangla.m3u8
 
 #EXTINF:-1 group-title="Documentary~🌏" tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/05/National-geographic-Channel-300x156.jpg", Nat Geo (Bangla)
 
-https://cdn2.aliflailabd.com/natgeo-in/index.m3u8?token=5b6dda24ae9f39ce1067ee26cb123271e4c6d255-b0e1353d7827b6628993869058a1f29b-1690476838-1690473238
+http://stream.medialink24.net:9191/natgeo-in/video.m3u8?token=rqIwQB1Aod9Br3
 
 
 
@@ -818,7 +818,7 @@ https://cdn2.aliflailabd.com/natgeo-in/index.m3u8?token=5b6dda24ae9f39ce1067ee26
 
 #EXTINF:-1 group-title="Documentary~🌏" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdxKXaCY--KypcvvzQkzYcbHrD9HP4RWQUjA&usqp=CAU",Travel XP (Bangla)
 
-https://cdn2.aliflailabd.com/travel-xp/index.m3u8?token=bd7783009f723278231df4a2ca10164a68af24ec-0ed4bcf5980c6dfaf50b812677b80b88-1690484421-1690480821
+http://stream.medialink24.net:9191/travel-xp/video.m3u8?token=rqIwQB1Aod9Br3
 
 
 
@@ -826,7 +826,7 @@ https://cdn2.aliflailabd.com/travel-xp/index.m3u8?token=bd7783009f723278231df4a2
 
 #EXTINF:-1 group-title="Documentary~🌏" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",Nat Geo Wild
 
-https://cdn2.aliflailabd.com/natgeo-wild/tracks-v1a1/mono.m3u8?token=9e1cdd7522aeebf5174686104f9daf80af93e84f-f0f1fbbd8a5dd4a26951b44c27cb8bc9-1683450508-1683446908
+http://stream.medialink24.net:9191/natgeo-wild/video.m3u8?token=rqIwQB1Aod9Br3
 
 
 
@@ -957,7 +957,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 
 #EXTINF:-1 group-title="Indian-Serial~🚺" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCrx3B0I4vFD54iJiRvnszO1jJ2oHArkByo2QcWC8OFEqD-ly&usqp=", Zee Bangla HD
 
-https://cdn2.aliflailabd.com/zee-bangla/index.m3u8?token=275bbd5232f1037e835b18d7bd68390836a6ba7c-c280f7913d6d1f00fde35730e089c747-1683482442-1683478842
+http://stream.medialink24.net:9191/zee-bangla/tracks-v1a1/mono.m3u8?token=e970784fdb7f6d17ef3085fcfb1c66cc80d4a29e-4f3fa5b695b57ea2a9d9adfb3ba3d725-1690569562-1690558762
 
 
 
