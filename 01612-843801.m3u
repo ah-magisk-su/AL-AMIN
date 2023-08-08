@@ -8,23 +8,35 @@
 
 
 
-#EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN~🧏", ARG VS AUS
+#EXTINF:-1 group-title="AL-AMIN~🧏" tvg-logo="https://sonypicturesnetworks.n1_HD_Logo_CLR.png", Live Event
 
-https://fifabangladesh.tk/IPTV/xx.php?id=179857
-
-
-#EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN~🧏",SonyLIV
-
-https://medialive.jiocinema.com/bpk-tv/F22_M1_BengaliHD_DIG_MOB/Fallbac
+https://fifabangladesh.tk/IPTV/xx.php?id=1798
 
 
-#EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN~🧏",SonyLIV
 
-https://medialive.jiocinema.com/bpk-tv/F22_M1_BengaliHD_DIG_MOB/Fallbac
+#EXTINF:-1 group-title="AL-AMIN~🧏" tvg-logo="https://sonypicturesnetworks.n1_HD_Logo_CLR.png", Live Event
 
-#EXTINF: -1 tvg-logo="SonyLiv" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png" group-title="AL-AMIN~🧏",SonyLIV
+https://fifabangladesh.tk/IPTV/xx.php?id=1798
 
-https://medialive.jiocinema.com/bpk-tv/F22_M1_BengaliHD_DIG_MOB/Fallbac
+
+
+#EXTINF:-1 group-title="AL-AMIN~🧏" tvg-logo="https://sonypicturesnetworks.n1_HD_Logo_CLR.png", Live Event
+
+https://fifabangladesh.tk/IPTV/xx.php?id=1798
+
+
+
+#EXTINF:-1 group-title="AL-AMIN~🧏" tvg-logo="https://sonypicturesnetworks.n1_HD_Logo_CLR.png", Live Event
+
+https://fifabangladesh.tk/IPTV/xx.php?id=1798
+
+
+
+
+
+
+
+
 
 
 
@@ -726,14 +738,6 @@ https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 
 
-#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRHtdmCHe43tHy6wiDgWddiGEwbu0JPEzNCA&usqp=CAU", T Sports HD
-
-https://live.tsports.com/live/tsports_live_1080/index.m3u8
-
-
-
-
-
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQE158A8SYFWWw/company-logo_200_200/0?e=2159024400&v=beta&t=5FmfI6ynqEqdIlnTmc3cUkRp5vmwV6RnC5kZLA_4LSw", TBN 24 USA IPTV
 
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
@@ -1151,7 +1155,7 @@ https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
 
 #https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
 
-https://rohabtv.musajeeb.online/Sony-MAX/index.fmp4.m3u8?token=f208b0a0309831e90ce6ffc742813dc9b55da45c-4c5b4831f1641a4b608fec3b1255f044-1687960920-1687950120
+http://stream.medialink24.net:9191/Sony-Max/video.m3u8?token=rqIwQB1Aod9Br3
 
 
 
@@ -1372,7 +1376,7 @@ https://cdn2.aliflailabd.com/movies-now/video.m3u8?token=MEU70H9oj3WC_1
 
 #EXTINF:-1 group-title="Movie Channel 🎥" tvg-logo="https://cdn.aliflailabd.com/tv/images/stargoldhd.png", Star Gold
 
-https://cdn2.aliflailabd.com/star-gold/video.m3u8?token=MEU70H9oj3WC_1
+http://stream.medialink24.net:9191/star-gold/video.m3u8?token=rqIwQB1Aod9Br3
 
 
 
@@ -2430,7 +2434,9 @@ https://uni5rtmp.tulix.tv/betterlife/betterlife/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRHtdmCHe43tHy6wiDgWddiGEwbu0JPEzNCA&usqp=CAU", (BD) T Sports HD
 
+https://live.tsports.com/live/tsports_live_1080/index.m3u8
 
 
 
@@ -2438,7 +2444,7 @@ https://uni5rtmp.tulix.tv/betterlife/betterlife/playlist.m3u8
 
 #EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png", Sony Ten 1 HD
 
-https://rohabtv.musajeeb.online/Sony-Ten-1-hd/index.fmp4.m3u8?token=6d5f1c784f874e67f72f1dc475ed4628030ca73f-14fd29b05fda0a3abdd886f0badf6d93-1687961228-1687950428
+http://stream.medialink24.net:9191/sony-ten1/video.m3u8?token=rqIwQB1Aod9Br3
 
 
 
@@ -2447,9 +2453,7 @@ https://rohabtv.musajeeb.online/Sony-Ten-1-hd/index.fmp4.m3u8?token=6d5f1c784f87
 
 #EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png", Sony Ten 2 HD
 
-#https://dai.google.com/ssai/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-
-https://cdn2.aliflailabd.com/sony-ten2/index.m3u8?token=1d47a57071e1e1f01375d23c512f056501351ed0-90841adeb9a0435150c46de1eae3999d-1687890206-1687886606
+http://stream.medialink24.net:9191/sony-ten2/video.m3u8?token=rqIwQB1Aod9Br3
 
 
 
@@ -2458,9 +2462,7 @@ https://cdn2.aliflailabd.com/sony-ten2/index.m3u8?token=1d47a57071e1e1f01375d23c
 
 #EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png", Sony Ten 3 HD
 
-#https://dai.google.com/ssai/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-
-https://cdn2.aliflailabd.com/sony-ten3/index.m3u8?token=0e31599eba56aeb08bf5f96513df7dd2e0cd6dfe-a3f3f2afd843ed2bcee8505550ec7d44-1687890253-1687886653
+http://stream.medialink24.net:9191/sony-ten3/video.m3u8?token=rqIwQB1Aod9Br3
 
 
 
@@ -2477,25 +2479,15 @@ https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 
 #EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png", Sony Ten 5 HD
 
-#https://dai.google.com/ssai/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-
-https://cdn2.aliflailabd.com/sony-ten5/index.m3u8?token=d03873eafd3f12437ec1b975fece6b2111a16308-eb1d7fcacef0c676c977eeeebb723fad-1687890285-1687886685
+http://stream.medialink24.net:9191/sony-ten5/video.m3u8?token=rqIwQB1Aod9Br3
 
 
 
 
 
 
-#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypictuo_CLR.png", Sony Ten 5 HD
 
-http://stream.medialink24.net:9191/Redbull-TV/index.m3u8?token=ef1387ffbef11e35d45ae10e985cd08b90087717-68b4d8f3bf4705ef3e9d0854ff6d5324-1686181385-1686170585
-
-
-
-
-
-
-#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://cdn.aliflailabd.com/tv/images/sports-18.png", Sports 18 ¹
+#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://cdn.aliflailabd.com/tv/images/sports-18.png", Sports 18 ¹ HD
 
 #https://cdn2.aliflailabd.com/SPORTS-18/index.m3u8?token=de18f8c3970835470af66f366fda6321ea49dc7e-a6e4d6a5f2d0e574ef21e7cd4273ce45-1686226837-1686223237
 
@@ -2506,7 +2498,7 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/in
 
 
 
-#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="http://103.106.243.113:7171/star-sports1/logo", StarSports 1
+#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="http://103.106.243.113:7171/star-sports1/logo", StarSports 1 HD
 
 http://stream.medialink24.net:9191/star-sports1/video.m3u8?token=rqIwQB1Aod9Br3
 
@@ -2514,7 +2506,7 @@ http://stream.medialink24.net:9191/star-sports1/video.m3u8?token=rqIwQB1Aod9Br3
 
 
 
-#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="http://103.106.243.113:7171/star-sports2/logo", StarSports 2
+#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="http://103.106.243.113:7171/star-sports2/logo", StarSports 2 HD
 
 http://stream.medialink24.net:9191/star-sports2/video.m3u8?token=rqIwQB1Aod9Br3
 
@@ -2523,7 +2515,7 @@ http://stream.medialink24.net:9191/star-sports2/video.m3u8?token=rqIwQB1Aod9Br3
 
 
 
-#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="http://103.106.243.113:7171/star-sports3/logo", StarSports 3
+#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="http://103.106.243.113:7171/star-sports-3/logo", StarSports 3 HD
 
 http://stream.medialink24.net:9191/star-sports-3/video.m3u8?token=rqIwQB1Aod9Br3
 
@@ -2545,6 +2537,11 @@ http://stream.medialink24.net:9191/star-sports-select2/video.m3u8?token=rqIwQB1A
 
 
 
+
+
+#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="http://103.106.243.113:7171/ptvsports/logo", PTV Sports
+
+http://stream.medialink24.net:9191/ptvsports/video.m3u8?token=rqIwQB1Aod9Br3
 
 
 
