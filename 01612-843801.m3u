@@ -311,7 +311,9 @@ https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://cdn.aliflailabd.com/tv/images/deeptotv.png", Deepto TV
 
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
 
 
 
@@ -798,14 +800,18 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/169
 
 #http://stream.medialink24.net:9191/star-jalsha/index.m3u8?token=2c8d5cab8a19635a102333a9a5e20a5bfa1343de-18c146733be0e1339d6228885ae7fb58-1683781793-1683770993
 
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
+#http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
+
+http://manik-freecatv.serveftp.com:25461/live/web/web/603.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Indian-Serial~🚺" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCrx3B0I4vFD54iJiRvnszO1jJ2oHArkByo2QcWC8OFEqD-ly&usqp=", Zee Bangla HD
 
-http://stream.medialink24.net:9191/zee-bangla/tracks-v1a1/mono.m3u8?token=e970784fdb7f6d17ef3085fcfb1c66cc80d4a29e-4f3fa5b695b57ea2a9d9adfb3ba3d725-1690569562-1690558762
+#http://stream.medialink24.net:9191/zee-bangla/tracks-v1a1/mono.m3u8?token=e970784fdb7f6d17ef3085fcfb1c66cc80d4a29e-4f3fa5b695b57ea2a9d9adfb3ba3d725-1690569562-1690558762
+
+http://manik-freecatv.serveftp.com:25461/live/web/web/602.m3u8
 
 
 
@@ -813,7 +819,7 @@ http://stream.medialink24.net:9191/zee-bangla/tracks-v1a1/mono.m3u8?token=e97078
 
 #EXTINF:-1 group-title="Indian-Serial~🚺" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/180px-Sony_Aath_new.png",Sony Aath
 
-https://rohabtv.musajeeb.online/Sony-Aath/index.fmp4.m3u8?token=44e94a2c9835f3ae8b49108cab7da4b3c35a4ba1-3ef4f2a56e014405e64ad9b907ce1cf0-1687960368-1687949568
+http://manik-freecatv.serveftp.com:25461/live/web/web/591.m3u8
 
 
 
@@ -864,7 +870,7 @@ https://enterr10-live.streamready.in/pub-iobanglakp3sff/liveabr/pub-iobanglakp3s
 
 #EXTINF:-1 group-title="Indian-Serial~🚺" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Sun_Bangla.png/220px-Sun_Bangla.png",Sun Bangla
 
-https://cdn2.aliflailabd.com/sunbangla/index.m3u8?token=38598a47ad40427f548aad6f1cc003e6624eac46-331944039a8d35efce72d613453a7778-1685930406-1685926806
+http://manik-freecatv.serveftp.com:25461/live/web/web/589.m3u8
 
 
 
@@ -968,7 +974,9 @@ https://rohabtvaudio.online/api/hls/Discovery_Bangla.m3u8
 
 #EXTINF:-1 group-title="Documentary~🌏" tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/05/National-geographic-Channel-300x156.jpg", Nat Geo (Bangla)
 
-http://stream.medialink24.net:9191/natgeo-in/video.m3u8?token=rqIwQB1Aod9Br3
+#http://stream.medialink24.net:9191/natgeo-in/video.m3u8?token=rqIwQB1Aod9Br3
+
+http://manik-freecatv.serveftp.com:25461/live/web/web/568.m3u8
 
 
 
@@ -1641,6 +1649,19 @@ https://yupplivefragcp5.yuppcdn.net/030523/wowkidzhin_2500/chunklist.m3u8
 
 
 
+
+
+
+#EXTINF:-1 group-title="Kid's~🚸" tvg-logo="http://103.243.11/sony-yay/logo", Disney Junior
+
+https://livecdn-iptv001.rumsport.com/stream/2303/stream/2303_hd/chunks.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Kid's~🚸" tvg-logo="http://103.106.243.11/sony-yay/logo",Shemaroo Umang
 
 https://cdn.live.shemaroome.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8?hdnts=st=1686115720~exp=1686126520~acl=*~data=testdata~hmac=221af0b043ff8dc5a3010f1f0afdbbfd74adb64b5a586fed4bda18e11b6ac4df
@@ -1798,7 +1819,7 @@ https://live.imamhusseintv.com/live/ih201/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Religius~🛐" tvg-logo="https://i.imgur.com/ocyh4DD.jpg",Imam Hussein TV 3
+#EXTINF:-1 group-title="Religius~??" tvg-logo="https://i.imgur.com/ocyh4DD.jpg",Imam Hussein TV 3
 https://live.imamhossaintv.com/live/ih3.m3u8
 
 
