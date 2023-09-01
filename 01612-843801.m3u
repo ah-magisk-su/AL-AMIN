@@ -28,7 +28,7 @@ https://video-weaver.bom01.hls.live-video.net/v1/playlist/CrkFcL4rOWEBi51xe6-QCe
 
 #EXTINF:-1 group-title="AL-AMIN~🧏" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3d38ll44lbmt52p.cloudfront.net%2Fcms%2nnel_poster%2F1677040358634_BTVogo.png&w=3840&q=75", Asia Cup Hindi
 
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/VIRARMHTtanC8URdEDfpeZ4OacdBtWoNs5LCdsP5Sg94A-1PDI6rjmSp5SU6o7LkVogJPRYiidLjD76qbuAuSA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+https://video-weaver.bom01.hls.live-video.net/v1/playlist/CrsFVs3vgtEGYCoUiqF2mWbIvTYLQfm_no5KMkcLjFZ1Qtih022Us_pS8Qb3un6tps5B44EFFawMpJnZHFio4EVPdg5P6e1fovQOZ66hUf36-jmbmDnJqpM3Co4TIYGgOeLAq2-ctMufjwKWOXP4aS_Eh5zliAmK63Pg-GDOGb1CT1j1VSfVBsInZGK_-4TBzdIH2euvp1eBBP6iJ9GiuyyADoXcJVKeTOoqXnM1HJuqniGy24vAMqSEfZCtai0XCffEBv5jBqqE0lvQuXCphG2osZsQ2WJOevhgclCQgvCLfnygS_V_wHcLJrlykaD83LJZH75bbP9lHusaETYNCzlwlswf0aJt7gb5Fraxu9mBSRibCclFCiwX1QGNyYqzbNv556xU93WAUcuVMBZoJHl0bfMsbuXXvnh9Fxk3TKy7SRloM0cxLXrcf_7EXLDck7cqTlmJzLnu16fAuW6SIJuoTYK9rZuLd-PaEZwpLTiHg1Ki2yVjWSIU_7vlN8ye95M8f-5aqxFhz6j4osWJVUKHPUjJJPAIKocxgIAFTS5EjoQTW5nPZ1S4o1RKihxeH31i7qgWrKkcBMTh8irHLgsAa9R87szLmKLBAtY63nt1miGsS42WdBK0YgSi6KXzuLvxmJ8wjOrVvBVFVe7gKWFiGEI6SoZrVdhepa-gSWwQw-I6sa-QS_cUHJ9M2_pfXcFQ_cmXbkoh7GqULtWrquzE8J-i0hsq7uqVJP-vNPgm1YtGQNeZ7mo-prAi5TZGK9aQFP0Rx9Nm8-i5mkk-dQLs-eJK92rAahjmQ8HXPV_6xuHDbmXZoDCT0q0yEs9WoUzwqt7OEOdt1NK5lFgvoHkkqAt6XFrgQYXHvyVSW_BwD7IBPdxBgjPTSkVl_550VnrBjMoH7sc1UVa-aL-UUjxH28ifUL3SIfsOoDATGgzORVgfsvxXXBvM-98gASoJdXMtd2VzdC0yMLQH.m3u8
 
 
 
@@ -56,7 +56,7 @@ https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/VIRARMHTtanC8URdED
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=3840&q=75", BTV
 
-http://stream.medialink24.net:9191/btv/index.m3u8?token=3d74509b25c3d1ab04e6ce2c89aa39c1fd3606ce-734c45fdd38ef9d06d9cc599843951a6-1683493563-1683482763
+http://tv.iplex.live:9191/BTV/index.fmp4.m3u8?token=a04e905e097badca31284887b222194a465e6ef2-d1f63c1feaa13f3a7ce55a4636e4d37b-1693522926-1693519326
 
 
 
@@ -183,6 +183,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 http://stream.medialink24.net:9191/bijoy-tv/index.m3u8?token=9cbb223ee6f88aa5a4a608f7e5a6cf1c0758339b-a19dac1b5c2a4aba232f7c1301d29dcd-1685295777-1685284977
 
+http://tv.iplex.live:9191/bijoy-tv/index.fmp4.m3u8?token=3accaba36cae533aadc828fb03cf09e1b71bca36-02dbaa87304c87e12a2c105fb7c58d1f-1693526411-1693522811
+
+
+
 
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://pcdn1.jagobd.com/images/s-bnnjj1640673615992.jpg", Biswa Bangla 24
@@ -220,9 +224,9 @@ https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png", Channel 9 HD
 
-#https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/playlist.m3u8
+https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/playlist.m3u8
 
-http://stream.medialink24.net:9191/channel9/video.m3u8?token=rqIwQB1Aod9Br3
+http://tv.iplex.live:9191/Channel-9/index.fmp4.m3u8?token=b740ccbe5246ef4bde4c6fcd1dd467c65cda673f-3d32dcd3fbb9933896135667d14d85b0-1693522997-1693519397
 
 
 
@@ -240,9 +244,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8?nimblesessionid=
 
-#https://cdn2.aliflailabd.com/channel-i/index.m3u8?token=d6165780a7da9b9aa4db971e38a01b6bda7a36d7-d748dfed2b8cf050d81a436af348f83f-1688021064-1688017464
-
-#http://manik-freecatv.serveftp.com:25461/live/web/web/595.m3u8
+http://tv.iplex.live:9191/Channel-i/index.fmp4.m3u8?token=538808d7990df85bb357fe94070ae28da4b5da5d-4a1c65d2d0a02939bbd21d9594ff39f1-1693523082-1693519482
 
 
 
@@ -350,7 +352,9 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/duronto-tv-bd.png", Duronto TV
 
-https://cdn2.aliflailabd.com/duronto-tv/tracks-v1a1/mono.m3u8?token=f1107a4b0e5a098982ac95b2e745563a60c3de5c-8f7b2051163ed09c4fd695fb187f2122-1683453014-1683449414
+#https://cdn2.aliflailabd.com/duronto-tv/tracks-v1a1/mono.m3u8?token=f1107a4b0e5a098982ac95b2e745563a60c3de5c-8f7b2051163ed09c4fd695fb187f2122-1683453014-1683449414
+
+#http://tv.iplex.live:9191/Duronto-tv/index.fmp4.m3u8?token=6f8d120f593dfe578e72ddd9b1f1ea4990ab6e7f-53e7529827d3a5b0eaf0939d07253be1-1693523505-1693519905
 
 
 
@@ -359,6 +363,8 @@ https://cdn2.aliflailabd.com/duronto-tv/tracks-v1a1/mono.m3u8?token=f1107a4b0e5a
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png", Ekattor TV
 
 https://cdn2.aliflailabd.com/ekattor/index.m3u8?token=8bceeace74d65712617867216d574413cdef3c90-246f53f12bf2fc3d97f567373bc15b15-1683887039-1683883439
+
+http://tv.iplex.live:9191/Ekattor/index.fmp4.m3u8?token=22f177098a448086eda7bebc5dcf89e252f6c6ab-421010719a884159668d98569005c8d8-1693525911-1693522311
 
 
 
@@ -401,8 +407,15 @@ http://stream.medialink24.net:9191/gaanbangla/tracks-v1a1/mono.m3u8?token=50714d
 
 #https://cdn2.aliflailabd.com/gazi-tv/tracks-v1a1/mono.m3u8?token=2bbbdb71836491bebdfd2d129d23300d8918d450-2fe22a3cb94dea812a584f9a166613e6-1683453070-1683449470
 
-http://103.102.27.173/live/tvfeed1002/index.m3u8
+http://tv.iplex.live:9191/GAZI/index.fmp4.m3u8?token=0607b10932f1d078cb272e0c66a4a28b49a4d900-e3481fb8f8344df3de494ea6d0295232-1693529398-1693525798
 
+
+
+
+
+#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://cdn.aliflailabd.com/tv/imaggtv.png", Global TV
+
+http://tv.iplex.live:9191/global-tv/tracks-v1/index.fmp4.m3u8?token=000c4f6b2a6b30ef8deba4a34e0f7c2ffc5be9d2-f7277929ffe4a46155342937aee673c5-1693526117-1693522517
 
 
 
@@ -548,7 +561,9 @@ https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://pcdn1.jagobd.com/images/s-i0yz4e1603614501084.jpg", Mohona TV HD
 
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+#https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+
+http://tv.iplex.live:9191/Nagorik-tv/index.fmp4.m3u8?token=0871c45a9f584b28e777419790b8438785d1413c-92159da00c60af84bc812d90f1c2f769-1693526034-1693522434
 
 
 
@@ -744,7 +759,7 @@ https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://pcdn1.jagobd.com/images-00peim1649751459724.jpg", T Sports
 
-https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
+http://tv.iplex.live:9191/t-sports/index.fmp4.m3u8?token=24f3c7a02d73756cbdfb354621f7369dc751d3b7-38cb3534b54977b982340abe2deda497-1693529442-1693525842
 
 
 
@@ -808,9 +823,8 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/169
 
 #http://stream.medialink24.net:9191/star-jalsha/index.m3u8?token=2c8d5cab8a19635a102333a9a5e20a5bfa1343de-18c146733be0e1339d6228885ae7fb58-1683781793-1683770993
 
-#http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 
-http://manik-freecatv.serveftp.com:25461/live/web/web/603.m3u8
 
 
 
@@ -819,7 +833,7 @@ http://manik-freecatv.serveftp.com:25461/live/web/web/603.m3u8
 
 #http://stream.medialink24.net:9191/zee-bangla/tracks-v1a1/mono.m3u8?token=e970784fdb7f6d17ef3085fcfb1c66cc80d4a29e-4f3fa5b695b57ea2a9d9adfb3ba3d725-1690569562-1690558762
 
-http://manik-freecatv.serveftp.com:25461/live/web/web/602.m3u8
+http://tv.iplex.live:9191/zee-bangla-HD/index.fmp4.m3u8?token=ca7a896fd89720f76ac6fad0248e81d6dbeb81a4-3d8657b8fd04f5293076474a39d43657-1693525268-1693521668
 
 
 
@@ -827,7 +841,7 @@ http://manik-freecatv.serveftp.com:25461/live/web/web/602.m3u8
 
 #EXTINF:-1 group-title="Indian-Serial~🚺" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/180px-Sony_Aath_new.png",Sony Aath
 
-http://manik-freecatv.serveftp.com:25461/live/web/web/591.m3u8
+http://tv.iplex.live:9191/sony-aath/index.fmp4.m3u8?token=bf9d7eb14090384ef9514dc179e953cde22c1fc5-3019804cc24802bdbe59c06035c7435e-1693525329-1693521729
 
 
 
@@ -847,9 +861,9 @@ https://livetv-channels.b-cdn.net/8008/chunklist0.m3u8
 
 #EXTINF:-1 group-title="Indian-Serial~🚺" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Colors-Bangla-Logo-new.jpg",Colors Bangla HD
 
-http://stream.medialink24.net:9191/colors-bangla/tracks-v1a1/mono.m3u8?token=9db7fdefc4bef4e443f2fa16c5c0968cb9ed7091-76d45eedafa270634cb1748b75f2396d-1683775482-1683764682
+#http://stream.medialink24.net:9191/colors-bangla/tracks-v1a1/mono.m3u8?token=9db7fdefc4bef4e443f2fa16c5c0968cb9ed7091-76d45eedafa270634cb1748b75f2396d-1683775482-1683764682
 
-#https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 
 
 
@@ -878,7 +892,7 @@ http://103.141.2.37:25461/live/web/web/606.m3u8
 
 #EXTINF:-1 group-title="Indian-Serial~🚺" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Sun_Bangla.png/220px-Sun_Bangla.png",Sun Bangla
 
-http://manik-freecatv.serveftp.com:25461/live/web/web/589.m3u8
+http://103.141.2.38/hls/sunbangla.m3u8
 
 
 
@@ -984,7 +998,7 @@ https://rohabtvaudio.online/api/hls/Discovery_Bangla.m3u8
 
 #http://stream.medialink24.net:9191/natgeo-in/video.m3u8?token=rqIwQB1Aod9Br3
 
-http://manik-freecatv.serveftp.com:25461/live/web/web/568.m3u8
+http://tv.iplex.live:9191/Nat-Geo-HD/index.fmp4.m3u8?token=542267e6fa5687aaa5d84e93b24ee9597f864afe-d8c27434b3699fe5e4419469d1d8034c-1693528916-1693525316
 
 
 
@@ -994,7 +1008,7 @@ http://manik-freecatv.serveftp.com:25461/live/web/web/568.m3u8
 
 http://stream.medialink24.net:9191/travel-xp/video.m3u8?token=rqIwQB1Aod9Br3
 
-http://manik-freecatv.serveftp.com:25461/live/web/web/593.m3u8
+http://tv.iplex.live:9191/travel-xp/index.fmp4.m3u8?token=e34dca801a477ad570617644dede22b663cdfb57-632c011d69404cd8ad79c91b8fd0f71c-1693528976-1693525376
 
 
 
@@ -1003,7 +1017,7 @@ http://manik-freecatv.serveftp.com:25461/live/web/web/593.m3u8
 
 http://stream.medialink24.net:9191/natgeo-wild/video.m3u8?token=rqIwQB1Aod9Br3
 
-http://manik-freecatv.serveftp.com:25461/live/web/web/576.m3u8
+http://tv.iplex.live:9191/nat-geo-wild/index.fmp4.m3u8?token=b56fbac4267cc31ecb30d5196790dcb6f7aa439a-b716c6b63db62896a5937b7241dc35ab-1693528998-1693525398
 
 
 
@@ -1127,8 +1141,7 @@ https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365e
 
 #EXTINF:-1 group-title="Movie Channel 🎥" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Jalsha_Movies.jpg/220px-Jalsha_Movies.jpg",Jalsha Movies HD
 
-http://stream.medialink24.net:9191/jalsha-movies/index.m3u8?token=8769987b196b1e335b101052747f6ade9c6c85bb-e38b6306413c9005dfc7e234c0c4023e-1683775122-1683764322
-
+http://tv.iplex.live:9191/Jalsha-movies/index.fmp4.m3u8?token=b1d6bc0a85cc3277114f6cbdb292758a76a4f669-504176e0175bd11fe11a98f319700f72-1693525322-1693521722
 
 
 
@@ -1137,7 +1150,7 @@ http://stream.medialink24.net:9191/jalsha-movies/index.m3u8?token=8769987b196b1e
 
 #EXTINF:-1 group-title="Movie Channel 🎥" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Sananda_TV_Logo.jpg",Sananda
 
-http://live.globalflix.net/whatsapp/01971466614/327.m3u8
+http://tv.iplex.live:9191/sananda/index.fmp4.m3u8?token=0cf5575b1c59cbb3a012ba3b72d98e492e1feb55-6c1cbeb707433b21ff9b1aafd738b542-1693525528-1693521928
 
 
 
@@ -1146,16 +1159,16 @@ http://live.globalflix.net/whatsapp/01971466614/327.m3u8
 
 #EXTINF:-1 group-title="Movie Channel 🎥" tvg-logo="https://scontent.fdac24-3.fna.fbcdn.net/v/t1.6435-9/42540319_1858101004244319_1059448022515056640_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=109&ccb=1-7&_nc_sid=7aed08&_nc_ohc=YWkgYlGXNiYAX8echp0&_nc_ht=scontent.fdac24-3.fna&oh=00_AfCOWpa98KTMVbTTFL9C4QBdbzOuspDUEoPxCljcTYbZ_A&oe=64857057",Zee Bangla Cinema
 
-http://manik-freecatv.serveftp.com:25461/live/web/web/598.m3u8
+http://tv.iplex.live:9191/zee-bangla-cinema/index.fmp4.m3u8?token=2c1a52373bb206589c3b19b6f0b4161e5bafc18a-bc7cf184f8242c9c5bcac96f1d460610-1693525310-1693521710
 
 
 
 
 
 
-#EXTINF:-1 group-title="Movie Channel 🎥" tvg-logo="https://channel52.tv/logo.jpg", Amar Cinema
+#EXTINF:-1 group-title="Movie Channel 🎥" tvg-logo="https://channel5v/logo.jpg", Colors Bangla Cinema
 
-https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/live-orgin/amarbanglatv.stream/chunks.m3u8?nimblesessionid=1440561245
+http://tv.iplex.live:9191/colors-bangla-cinema/index.fmp4.m3u8?token=ebe43f4d2bbc38c6ab0bd325ccff62c9adb8ad2c-1dd3d40a104386cfa09c95e9902e1aa3-1693527905-1693524305
 
 
 
@@ -1164,7 +1177,7 @@ https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 
 #EXTINF:-1 group-title="Movie Channel 🎥" tvg-id="4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/190px-Sony_Max_new.png",Sony Max
 
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+http://tv.iplex.live:9191/Sony-max-hd/tracks-v1/index.fmp4.m3u8?token=0d5d9cce5759fb3fd20072b50672d834920fa7eb-10ccba6f775fa4392caa0ffae6552366-1693525855-1693522255
 
 
 
@@ -2479,14 +2492,12 @@ https://uni5rtmp.tulix.tv/betterlife/betterlife/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRHtdmCHe43tHy6wiDgWddiGEwbu0JPEzNCA&usqp=CAU", T Sports HD (Cticket)
-
-https://live.tsports.com/?bitrate=1024000&channel=tsports_live_2_1080&res=1080
 
 
-#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRHtdmCHe43tHy6wiDgWddiGEwbu0JPEzNCA&usqp=CAU", T Sports HD (Football)
 
-https://live.tsports.com/?bitrate=1024000&channel=tsports_live_3_1080&res=1080
+#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRHtdmCHe43tHy6wiDgWddiGEwbu0JPEzNCA&usqp=CAU", T Sports HD
+
+http://tv.iplex.live:9191/sports-ch-1/preview.mp4?token=70f95244cecf7f5628a72d0f48d68628c881e56c-e318c097827cf829e12e3fec50c1518f-1693528899-1693525299
 
 
 
@@ -2495,7 +2506,7 @@ https://live.tsports.com/?bitrate=1024000&channel=tsports_live_3_1080&res=1080
 
 #http://stream.medialink24.net:9191/sony-ten1/video.m3u8?token=rqIwQB1Aod9Br3
 
-http://manik-freecatv.serveftp.com:25461/live/web/web/585.m3u8
+http://103.141.2.38/hls/sonyten1.m3u8
 
 
 
@@ -2505,7 +2516,7 @@ http://manik-freecatv.serveftp.com:25461/live/web/web/585.m3u8
 
 http://stream.medialink24.net:9191/sony-ten2/video.m3u8?token=rqIwQB1Aod9Br3
 
-http://manik-freecatv.serveftp.com:25461/live/web/web/584.m3u8
+http://103.141.2.38/hls/sonyten2.m3u8
 
 
 
@@ -2514,13 +2525,13 @@ http://manik-freecatv.serveftp.com:25461/live/web/web/584.m3u8
 
 http://stream.medialink24.net:9191/sony-ten3/video.m3u8?token=rqIwQB1Aod9Br3
 
-http://manik-freecatv.serveftp.com:25461/live/web/web/582.m3u8
+http://103.141.2.38/hls/sonyten3.m3u8
 
 
 
 #EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png", Sony Ten 4 HD
 
-https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+http://tv.iplex.live:9191/sony-ten-4/index.fmp4.m3u8?token=5a2ec4e223073396a7c93750130afe536023d63d-fbc93611cee5cd4b8a2983bc086ce05b-1693529301-1693525701
 
 
 
@@ -2531,7 +2542,7 @@ https://dai.google.com/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 
 #http://stream.medialink24.net:9191/sony-ten5/video.m3u8?token=rqIwQB1Aod9Br3
 
-http://manik-freecatv.serveftp.com:25461/live/web/web/577.m3u8
+http://103.141.2.38/hls/sonyten5.m3u8
 
 
 
@@ -2553,7 +2564,7 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/in
 
 #http://stream.medialink24.net:9191/star-sports1/video.m3u8?token=rqIwQB1Aod9Br3
 
-http://manik-freecatv.serveftp.com:25461/live/web/web/580.m3u8
+http://103.141.2.38/hls/stersports1hd.m3u8
 
 
 
@@ -2563,7 +2574,7 @@ http://manik-freecatv.serveftp.com:25461/live/web/web/580.m3u8
 
 #http://stream.medialink24.net:9191/star-sports2/video.m3u8?token=rqIwQB1Aod9Br3
 
-http://manik-freecatv.serveftp.com:25461/live/web/web/581.m3u8
+http://103.141.2.38/hls/stersports2hd.m3u8
 
 
 
@@ -2573,7 +2584,7 @@ http://manik-freecatv.serveftp.com:25461/live/web/web/581.m3u8
 
 #http://stream.medialink24.net:9191/star-sports-3/video.m3u8?token=rqIwQB1Aod9Br3
 
-http://manik-freecatv.serveftp.com:25461/live/web/web/578.m3u8
+http://103.141.2.38/hls/stersports3hd.m3u8
 
 
 
@@ -2582,7 +2593,7 @@ http://manik-freecatv.serveftp.com:25461/live/web/web/578.m3u8
 
 http://stream.medialink24.net:9191/star-sports-select1/video.m3u8?token=rqIwQB1Aod9Br3
 
-http://manik-freecatv.serveftp.com:25461/live/web/web/579.m3u8
+http://103.141.2.38/hls/Star_Sport_Select1HD.m3u8
 
 
 
@@ -2591,7 +2602,7 @@ http://manik-freecatv.serveftp.com:25461/live/web/web/579.m3u8
 
 #http://stream.medialink24.net:9191/star-sports-select2/video.m3u8?token=rqIwQB1Aod9Br3
 
-http://manik-freecatv.serveftp.com:25461/live/web/web/583.m3u8
+http://103.141.2.38/hls/Star_Sport_Select2HD.m3u8
 
 
 
@@ -2601,6 +2612,12 @@ http://manik-freecatv.serveftp.com:25461/live/web/web/583.m3u8
 
 http://stream.medialink24.net:9191/ptvsports/video.m3u8?token=rqIwQB1Aod9Br3
 
+http://103.141.2.38/hls/ptv.m3u8
+
+
+#EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="http://103.106.243.113:7171/ptvsports/logo", Willow HD
+
+http://tv.iplex.live:9191/willow-cricket/index.fmp4.m3u8?token=9e06a124cd6c1c39054df2cff08edc6d075861ce-b1b00f3cba6e25a21686e3b45af1aa8b-1693529167-1693525567
 
 
 
