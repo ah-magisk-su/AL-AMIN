@@ -16,7 +16,7 @@ https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1
 
 #EXTINF:-1 group-title="AL-AMIN~🧏" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3d38ll44lbmt52p.cloudfront.net%2Fcms%2Fchoster%2F1677040358634_BTVogo.png&w=3840&q=75", Priyotoma HD
 
-https://fifabangladesh.tk/IPTV/xx.php?id=1798
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sports_live_01_576/sports_live_01_576.m3u8?bitrate=1000000&channel=sports_live_01_576&gp_id=
 
 
 
@@ -465,6 +465,12 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
 
 
 
+#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg", ITV USA
+
+https://itvusabox-hls-01.dgo-nyc3.itvusa.tv/itvusabox/itvstream.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://pcdn1.jagobd.com/images/s-7evtae1648973625682.jpg", JagoNews24
 
@@ -664,6 +670,12 @@ https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 
 
+#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="httpnFprrIOQr-h8mYCSl6LXoQ&usqp=CAU", Pan Vision
+
+https://bd.jagobd.com/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/live-orgin/panvisiontvs.stream/chunks.m3u8
+
+
+
 
 
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1HduBj7lPhQqbnFprrIOQr-h8mYCSl6LXoQ&usqp=CAU", Polli Bangla TV
@@ -740,6 +752,13 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://pbs.twimg.com/profile_images/942458481017208832/CA5uGF46_400x400.jpg", Sristy TV
 
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/sristytv.stream/chunks.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Bangladeshi~🇧🇩" tvg-logo="https://pbs.twimg.com/profil'46_400x400.jpg", Time TV
+
+https://tempamb.jagobd.com/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/live-orgin/times24tv.stream/chunks.m3u8
 
 
 
@@ -846,7 +865,7 @@ https://serverbackupchannel.xyz/jiotvchannel/app/live/698/Aakaash_bangla/index.m
 
 #EXTINF:-1 group-title="Indian-Serial~🚺" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Colors-Bangla-Logo-new.jpg",Colors Bangla HD
 
-https://itstonystark.xyz/app/getlive.php?id=1657&qid=Colors_Bangla_Cinema_600.m3u8&e=.m3u8
+https://serverbackupchannel.xyz/jiotvchannel/app/live/756/Colors_Bengali_HD/index.m3u8
 
 
 
@@ -873,7 +892,7 @@ https://dangalplaycdn.vidgyor.com/pub-iobanglakp3sff/liveabr/playlist.m3u8
 
 #EXTINF:-1 group-title="Indian-Serial~🚺" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/Sun_Bangla.png/220px-Sun_Bangla.png",Sun Bangla
 
-https://cdn2.aliflailabd.com/sunbangla/index.m3u8?token=b57d0063956d05d656acb5d2f54c9f07bc4b5b34-0ddf3177b2bb2efd20291959d3e646a9-1694993475-1694989875
+https://serverbackupchannel.xyz/jiotvchannel/app/live/1669/Sun_Bangla/index.m3u8
 
 
 
@@ -1139,7 +1158,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 
 #EXTINF:-1 group-title="Movie Channel 🎥" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2023/06/Colors-Bangla-Cinema-introduces-new-brand-identity.jpg", Color Bagla Cnema
 
-http://tv.iplex.live:9191/colors-bangla-cinema/index.fmp4.m3u8?token=ebe43f4d2bbc38c6ab0bd325ccff62c9adb8ad2c-1dd3d40a104386cfa09c95e9902e1aa3-1693527905-1693524305
+https://itstonystark.xyz/app/getlive.php?id=1657&qid=Colors_Bangla_Cinema_600.m3u8&e=.m3u8
 
 
 
@@ -1612,7 +1631,7 @@ http://rtmp.smartstream.video:1935/mhoneMUSIC/mhoneMUSIC/playlist.m3u8
 
 #EXTINF:-1 group-title="Kid's~🚸" tvg-logo="https://i.imgur.com/TTL6oj5.png",Cartoon Network
 
-http://stream.medialink24.net:9191/cartoon-network/index.m3u8?token=976b374bc528fcfa20241396006633286b909376-11e20fd92bab9cc67d21be8406fa92d6-1682848159-1682837359
+https://serverbackupchannel.xyz/jiotvchannel/app/live/1079/CN_HD_English/index.m3u8
 
 
 
@@ -2490,7 +2509,7 @@ http://stream.medialink24.net:9191/sony-ten3/index.m3u8?token=1a596cba031573c7bc
 
 #EXTINF:-1 group-title="Sport's~🤾‍♂️⚽" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png", Sony Ten 4 HD
 
-https://serverbackupchannel.xyz/jiotvchannel/app/live/1773/Ten_4_HD_Telugu/index.m3u8
+https://serverbackupchannel.xyz/jiotvchannel/app/live/1773/Ten_4_HD_Telugu/0db17cca61dc0c0f6361482a25c8e1c5486a95cc230e072da9d2dcd117be587d56f907dfd904076f0647846639a9fac862e46bf7666d8a89f9f58bbf3f3df1896a0c4036381be9889857708950fc5a7fe7f1ebf45081df4c213b9059b4745e58cf9696715f0ef13168a66cad6f716699_playlist.m3u8
 
 
 
